@@ -12,3 +12,13 @@ h1,h2,h3,h4{
  align-items:center;
  text-align:center
 }
+#dumpster {
+ background-image:url('dumpsterrest.png');
+ display:block;
+ height:290px;
+ width:262px;
+ margin-top:100px
+}
+#dumpster:hover {
+ background-image:url('dumpsterhover.png')
+}
